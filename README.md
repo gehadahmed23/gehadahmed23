@@ -43,16 +43,16 @@ I am a dynamic Software Engineer passionate about building scalable, high-perfor
 – Optimized performance via Lazy Loading and secured routes using Functional Guards.
 – Leveraged Angular 20 Control Flow (@if, @for) for modern UI management.
 
-#### 🚗 [Luxury Jewelry E-Commerce Store](https://github.com/gehadahmed23)
-– Developed a dynamic e-commerce app using Vanilla JavaScript and Google Firebase.
+#### 🚗 [Luxury Jewelry E-Commerce Store](https://github.com/BasmallaMabrouk/jewelry-store)
+– Developed a dynamic e-commerce app using Vanilla JavaScript and Google **Firebase**.
 – Created a Smart Cart system using LocalStorage and an elegant UI with parallax scrolling.
 – Implemented dynamic product filtering via URL parameters.
 
 ---
 
-### 📊 GitHub Stats
-![Gehad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gehadahmed23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gehadahmed23&layout=compact&theme=radical)
+--### 📊 GitHub Stats
+--![Gehad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gehadahmed23&show_icons=true&theme=radical)
+--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gehadahmed23&layout=compact&theme=radical)
 
 ---
 
