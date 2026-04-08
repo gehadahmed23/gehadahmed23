@@ -50,12 +50,6 @@ I am a dynamic Software Engineer passionate about building scalable, high-perfor
 
 ---
 
---### 📊 GitHub Stats
---![Gehad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gehadahmed23&show_icons=true&theme=radical)
---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gehadahmed23&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - 📧 **Email:** [gehadahmedsaid11@gmail.com](mailto:gehadahmedsaid11@gmail.com)
 - 🔗 **LinkedIn:** [Gehad Ahmed](https://linkedin.com/in/gehad-ahmed-ba4107236)
