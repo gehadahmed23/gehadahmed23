@@ -39,14 +39,14 @@ I am a dynamic Software Engineer passionate about building scalable, high-perfor
 
 #### 🌸 [Flora Store](https://github.com/gehadahmed23/Flora-Store-E-Commerce-Web-Application)
 - Advanced E-commerce platform leveraging **Angular 20** and **RxJS**.
-– Managed data streams using RxJS Observables and integrated APIs via HttpClient with Interceptors.
-– Optimized performance via Lazy Loading and secured routes using Functional Guards.
-– Leveraged Angular 20 Control Flow (@if, @for) for modern UI management.
+- Managed data streams using RxJS Observables and integrated APIs via HttpClient with Interceptors.
+- Optimized performance via Lazy Loading and secured routes using Functional Guards.
+- Leveraged Angular 20 Control Flow (@if, @for) for modern UI management.
 
-#### 🚗 [Luxury Jewelry E-Commerce Store](https://github.com/BasmallaMabrouk/jewelry-store)
-– Developed a dynamic e-commerce app using Vanilla JavaScript and Google **Firebase**.
-– Created a Smart Cart system using LocalStorage and an elegant UI with parallax scrolling.
-– Implemented dynamic product filtering via URL parameters.
+#### 💎 [Luxury Jewelry E-Commerce Store](https://github.com/BasmallaMabrouk/jewelry-store)
+- Developed a dynamic e-commerce app using Vanilla JavaScript and Google **Firebase**.
+- Created a Smart Cart system using LocalStorage and an elegant UI with parallax scrolling.
+- Implemented dynamic product filtering via URL parameters.
 
 ---
 
