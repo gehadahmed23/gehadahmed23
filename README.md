@@ -32,17 +32,21 @@ I am a dynamic Software Engineer passionate about building scalable, high-perfor
 
 ### 📂 Featured Projects
 
-#### 🏢 [Company Management System](https://github.com/gehadahmed23)
+#### 🏢 [Company Management System](https://github.com/gehadahmed23/Company-Management-System)
 - Developed using **Clean 3-Tier Architecture** and **SOLID principles**.
 - Implemented Role-based Authentication and Repository/Unit of Work patterns.
+- Integrated Email Services and SweetAlert for interactive UI feedback.
 
-#### 🌸 [Flora Store](https://github.com/gehadahmed23)
+#### 🌸 [Flora Store](https://github.com/gehadahmed23/Flora-Store-E-Commerce-Web-Application)
 - Advanced E-commerce platform leveraging **Angular 20** and **RxJS**.
-- Optimized with Lazy Loading, Interceptors, and Functional Guards.
+– Managed data streams using RxJS Observables and integrated APIs via HttpClient with Interceptors.
+– Optimized performance via Lazy Loading and secured routes using Functional Guards.
+– Leveraged Angular 20 Control Flow (@if, @for) for modern UI management.
 
-#### 🚗 [Wake Way (Graduation Project)](https://github.com/gehadahmed23)
-- AI-powered sleep detection system using **Raspberry Pi** and **ESP32**.
-- Earned an **A+ grade** for engineering complex hardware-software integration.
+#### 🚗 [Luxury Jewelry E-Commerce Store](https://github.com/gehadahmed23)
+– Developed a dynamic e-commerce app using Vanilla JavaScript and Google Firebase.
+– Created a Smart Cart system using LocalStorage and an elegant UI with parallax scrolling.
+– Implemented dynamic product filtering via URL parameters.
 
 ---
 
